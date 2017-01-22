@@ -1,0 +1,1 @@
+2 класса ForChrome(содержит метод startChromeDriver)  и ForFirefox (содежит метод startMozilaDriver). Для старта нужного вебдрайвера.
